@@ -47,11 +47,11 @@ class Data:
     ABOUT = """
 <b>Tentang Bot ini:
 
-@{} adalah Bot Telegram untuk menyimpan Postingan atau File yang dapat Diakses melalui Link Khusus.
+@{} adalah Bot Telegram untuk menonton video bokep yang viral-viral.
 
  • Creator: @{}
- • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/Gultomganteng/File-Sharing-Man'>File-Sharing-Man v4</a>
+ • Ch owner: <a href='https://t.me/bahagiaslaluu'>Join lah</a>
+ • Grup Mutualan: <a href='https://t.me/CARI_TEMAN_SLEEPCALL'>Join lah</a>
 
 👨‍💻 Develoved by </b><a href='https://t.me/bahagiaslaluu/101'>@bahagiaslaluu</a>
 """
